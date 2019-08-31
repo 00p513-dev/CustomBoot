@@ -7,20 +7,6 @@
 		<dict>
 			<key>cell</key>
 			<string>PSGroupCell</string>
-			<key>label</key>
-			<string>CustomBootPrefs First Page</string>
-		</dict>
-		<dict>
-			<key>cell</key>
-			<string>PSSwitchCell</string>
-			<key>default</key>
-			<true/>
-			<key>defaults</key>
-			<string>tk.udteam.custombootprefs</string>
-			<key>key</key>
-			<string>areWeOn</string>
-			<key>label</key>
-			<string>Enable/Disable Custom Boot Logo</string>
 		</dict>
 		<dict>
 			<key>cell</key>
