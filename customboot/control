@@ -1,9 +1,9 @@
 Package: tk.udteam.customboot
 Name: CustomBoot
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.1.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: A simple tweak to change the boot logo.
 Maintainer: UD Team
 Author: UD Team
 Section: Tweaks
